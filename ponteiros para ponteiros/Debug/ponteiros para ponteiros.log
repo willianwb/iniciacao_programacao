@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\temp\ponteiros para ponteiros\source.cpp(19): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\temp\ponteiros para ponteiros\source.cpp(20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int ***'
+  ponteiros para ponteiros.vcxproj -> C:\Temp\ponteiros para ponteiros\Debug\ponteiros para ponteiros.exe
+  ponteiros para ponteiros.vcxproj -> C:\Temp\ponteiros para ponteiros\Debug\ponteiros para ponteiros.pdb (Full PDB)

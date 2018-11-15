@@ -1,0 +1,4 @@
+﻿  Source.cpp
+f:\matrizes\consoleapplication1\source.cpp(27): warning C4101: 'M3': unreferenced local variable
+  ConsoleApplication1.vcxproj -> F:\matrizes\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> F:\matrizes\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

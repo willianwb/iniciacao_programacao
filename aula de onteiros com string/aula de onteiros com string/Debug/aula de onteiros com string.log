@@ -1,0 +1,4 @@
+﻿  exercicios.cpp
+f:\aula de onteiros com string\aula de onteiros com string\exercicios.cpp(37): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+  aula de onteiros com string.vcxproj -> F:\aula de onteiros com string\Debug\aula de onteiros com string.exe
+  aula de onteiros com string.vcxproj -> F:\aula de onteiros com string\Debug\aula de onteiros com string.pdb (Full PDB)

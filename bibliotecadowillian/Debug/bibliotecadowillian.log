@@ -1,0 +1,12 @@
+﻿  Source.cpp
+f:\bibliotecadowillian\source.cpp(63): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\bibliotecadowillian\source.cpp(63): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\bibliotecadowillian\source.cpp(63): note: the missing variadic argument 2 is required by format string '%s'
+  f:\bibliotecadowillian\source.cpp(63): note: this argument is used as a buffer size
+f:\bibliotecadowillian\source.cpp(69): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\bibliotecadowillian\source.cpp(69): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\bibliotecadowillian\source.cpp(69): note: the missing variadic argument 2 is required by format string '%s'
+  f:\bibliotecadowillian\source.cpp(69): note: this argument is used as a buffer size
+f:\bibliotecadowillian\source.cpp(10): warning C4101: 'N': unreferenced local variable
+  bibliotecadowillian.vcxproj -> F:\bibliotecadowillian\Debug\bibliotecadowillian.exe
+  bibliotecadowillian.vcxproj -> F:\bibliotecadowillian\Debug\bibliotecadowillian.pdb (Full PDB)
