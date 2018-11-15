@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\algoritmos\lista 6\lista 6\source.cpp(29): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Lista 6.vcxproj -> D:\Algoritmos\Lista 6\Debug\Lista 6.exe
+  Lista 6.vcxproj -> D:\Algoritmos\Lista 6\Debug\Lista 6.pdb (Partial PDB)

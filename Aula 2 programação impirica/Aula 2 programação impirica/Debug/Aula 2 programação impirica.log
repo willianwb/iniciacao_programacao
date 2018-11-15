@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\algoritmos\aula 2 programação impirica\aula 2 programação impirica\source.cpp(14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+f:\algoritmos\aula 2 programação impirica\aula 2 programação impirica\source.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\algoritmos\aula 2 programação impirica\aula 2 programação impirica\source.cpp(42): warning C4715: 'MaiorNum': not all control paths return a value
+Source.obj : error LNK2005: _main already defined in funções willian.obj
+F:\Algoritmos\Aula 2 programação impirica\Debug\Aula 2 programação impirica.exe : fatal error LNK1169: one or more multiply defined symbols found
